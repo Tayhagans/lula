@@ -1,0 +1,45 @@
+#section1 {
+    height: 700px; 
+    background-image:url("http://i63.tinypic.com/f2318p.jpg"); 
+    background-color: black;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+
+
+.h1head {
+    color: white; 
+    padding-top: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px; 
+}
+
+.h2head {
+    color: white; 
+    padding-top: 90px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px; 
+}
+
+.sexy {
+    color: red; 
+}
+
+#section2 {
+    height: 700px;
+}
+
+#section3 {
+    height: 500px; 
+    background-color: gray
+}
+
+.grid {
+    padding: 0;
+  }
+  .grid > div {
+    margin: 0;
+    padding: 0;
+  }
+
