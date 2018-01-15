@@ -1,26 +1,28 @@
 #section1 {
     height: 750px; 
-    background-image:url("http://i68.tinypic.com/jpg7pc.jpg"); 
+    background-image:url("http://i65.tinypic.com/2ih6jrr.jpg"); 
     background-color: black;
     background-size: cover; 
     background-repeat: no-repeat;
 }
 
+
+
 .but1 {
-    margin-left: 560px;
+    margin-left: 565px;
     margin-top: 250px;
 }
 
 .h1head {
-    color: black; 
+    color: white; 
     padding-top: 50px;
     font-family: 'Dancing Script', cursive;
-    font-size: 80px;
+    font-size: 55px;
     text-align: center;  
 }
 
 .h2head {
-    color: black; 
+    color: goldenrod; 
     padding-top: 90px;
     font-family: 'Dancing Script', cursive;
     font-size: 30px; 
