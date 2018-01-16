@@ -3,31 +3,30 @@
 }
 
 #section1 {
-    min-height: 679px; 
+    height: 315px; 
     width: 100%;
     background-image:url("http://i65.tinypic.com/2ih6jrr.jpg"); 
-    background-color: black;
+    background-color: white;
     background-size: contain; 
     /*background-size: cover;>*/
     background-repeat: no-repeat;
 }
 
 
-
 .btn {
     /* margin-left: 565px; */
-    margin-top: 250px;
+    margin-top: 120px;
 }
 
 .btn:hover, .btn:focus {
-    background-color: gray; 
+    border: solid red 1px;  
 }
 
 .h1head {
     color: white; 
     padding-top: 50px;
     font-family: 'Great Vibes', cursive;
-    font-size: 55px;
+    font-size: 20px;
     text-align: center;  
 }
 
@@ -44,13 +43,12 @@
 }
 
 #section2 {
-    height: 850px;
+    height: auto;
 }
 
 .newc {
     text-align: center;
     font-family: 'Poiret One', cursive;
-    padding-top: 70px;
 }
 
 .sec2photo {
@@ -59,8 +57,8 @@
 }
 
 #section3 {
-    height: 500px; 
-    background-color: white; 
+    height: auto; 
+    background-color: black; 
 }
 
 
@@ -81,10 +79,12 @@
 }
 
 .contact-details {
+    color:white; 
     font-family: 'Poiret One', cursive;
     text-align: center; 
-    padding-top: 10px;
+    
 }
+
 
 .contact-info {
 	list-style: none;
@@ -111,8 +111,8 @@
 
 }
 
-.contact-info li a {
-	color: #999;
+.contact-info li a  {
+    color: #999;
 }
 
 
@@ -121,3 +121,23 @@
 .panel-footer {
     text-align: center; 
 } 
+
+/*************ABOUT PAGE********************/
+
+#section1about {
+    padding-top:60px; 
+    height: 380px; 
+    width: 100%;
+    background-color: white;
+    background-image:url("http://i65.tinypic.com/25arls4.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.aboutme {
+    padding-top: 10px; 
+    text-align: center; 
+}
+
+
+
