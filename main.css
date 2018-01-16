@@ -34,19 +34,80 @@
 }
 
 #section2 {
-    height: 700px;
+    height: 850px;
+}
+
+.newc {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    padding-top: 70px;
+}
+
+.sec2photo {
+    padding-top: 70px;
+
 }
 
 #section3 {
     height: 500px; 
-    background-color: gray
+    background-color: white; 
 }
 
-.grid {
-    padding: 0;
-  }
-  .grid > div {
-    margin: 0;
-    padding: 0;
-  }
 
+.general {
+    font-family: 'Poiret One', cursive;
+    text-align: center; 
+    padding-top: 50px; 
+    border-top: 1px solid black;  
+}
+
+.general p {
+    text-align: center; 
+}
+
+.pcolor {
+    text-align: center; 
+    color: #999; 
+}
+
+.contact-details {
+    font-family: 'Poiret One', cursive;
+    text-align: center; 
+    padding-top: 10px;
+}
+
+.contact-info {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-size: 0.9em;
+	/*text-align: center;*/
+}
+
+.contact-info a {
+	display: block;
+	min-height: 20px;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	padding: 0 0 0 30px; 
+	margin: 0 0 10px;
+	text-align: center;
+}
+
+
+.contact-info li {
+    display: block;
+    
+
+}
+
+.contact-info li a {
+	color: #999;
+}
+
+
+
+
+.panel-footer {
+    text-align: center; 
+} 
