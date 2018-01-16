@@ -3,18 +3,19 @@
 }
 
 #section1 {
-    height: 950px; 
+    min-height: 679px; 
+    width: 100%;
     background-image:url("http://i65.tinypic.com/2ih6jrr.jpg"); 
     background-color: black;
-    background-size: cover; 
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 
 
 .but1 {
-    margin-left: 565px;
-    margin-top: 250px;
+    /* margin-left: 565px; */
+    margin-top: 100%;
 }
 
 .btn:hover, .btn:focus {
