@@ -12,11 +12,39 @@
 
 }
 
+/************iphone 7 and 8 plus ************************/
 
+@media only screen 
+    and (min-width: 414px)
+    and (max-width: 736px)
+    and (-webkit-min-device-pixel-ratio: 3)
+    and (orientation: portrait){
+        #section1 {
+            height: 315px; 
+            width: 100%;
+            background-image:url("http://i65.tinypic.com/28h06tw.jpg"); 
+            background-color: white;
+            /*background-size: contain;*/ 
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
 
+    }
 
-
-
+@media only screen 
+    and (min-width:1024px)
+    and (max-width:1366px)
+    and (-webkit-min-device-pixel-ratio: 2){
+        #section1 {
+            height: 315px; 
+            width: 100%;
+            background-image:url("http://i65.tinypic.com/28h06tw.jpg"); 
+            background-color: white;
+            background-size: cover; 
+            /*background-size: cover;>*/
+            background-repeat: no-repeat;
+        }
+    }
 
 
 
@@ -24,7 +52,7 @@
     #section1 {
         min-height: 978px; 
         width: 100%;
-        background-image:url("http://i67.tinypic.com/o6gtnr.jpg"); 
+        background-image:url("http://i65.tinypic.com/28h06tw.jpg"); 
         background-color: black;
         background-size: cover; 
         /*background-size: cover;>*/
