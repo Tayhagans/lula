@@ -13,6 +13,8 @@
     font-family: 'Great Vibes', cursive;
 }
 
+
+
 #section1 {
     height: 315px; 
     width: 100%;
@@ -130,6 +132,7 @@
 
 .panel-footer {
     text-align: center; 
+
 } 
 
 /*************ABOUT PAGE********************/
@@ -149,5 +152,22 @@
     text-align: center; 
 }
 
+/*******************CONTACT PAGE************/
 
 
+#section1contact {
+    padding-top: 20px; 
+    height: 550px; 
+}
+
+.contp {
+    padding-top: 20px; 
+}
+
+.conth4 {
+    font-size: 12px; 
+}
+
+#message {
+    padding:60px; 
+}
