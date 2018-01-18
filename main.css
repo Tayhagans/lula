@@ -3,7 +3,6 @@
 }
 
 .navbar-brand {
-    padding: 0;
     color: white;   
 }
 
@@ -174,3 +173,10 @@
 #message {
     padding:60px; 
 }
+
+/************SHOP PAGE *****************/
+
+.shop1 {
+    padding-top: 30px; 
+}
+
