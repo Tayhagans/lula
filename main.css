@@ -92,6 +92,10 @@
     color: #999; 
 }
 
+.glyphicon {
+    padding-right:10px;
+}
+
 .contact-details {
     color:white; 
     font-family: 'Poiret One', cursive;
