@@ -1,5 +1,24 @@
-@media screen and (min-width: 480px){
+@media screen and (min-width: 769px){
 
+    #section1 {
+        min-height: 978px; 
+        width: 100%;
+        background-image:url("http://i65.tinypic.com/2ih6jrr.jpg"); 
+        background-color: black;
+        background-size: cover; 
+        /*background-size: cover;>*/
+        background-repeat: no-repeat;
+    }
+    #section1contact{
+        height: auto;
+   
+}
+
+@media screen and (min-width: 1025px){
+    #section1contact{
+        height: auto;
+
+    }
     #section1 {
         min-height: 978px; 
         width: 100%;
@@ -55,6 +74,12 @@
             /*background-size: cover;>*/
             background-repeat: no-repeat;
         }
+        .conth4 {
+            padding-bottom: 300px; 
+            
+        }
+    
+    
     }
 
 
@@ -79,6 +104,3 @@
 
 
 }
-
-
-
