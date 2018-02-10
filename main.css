@@ -155,9 +155,9 @@
     height: 380px; 
     width: 100%;
     background-color: white;
-    background-image:url("http://i65.tinypic.com/25arls4.jpg"); 
+    /* background-image:url("http://i65.tinypic.com/25arls4.jpg"); 
     background-size: cover;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat;   */
 }
 
 .aboutme {
