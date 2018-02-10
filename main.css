@@ -165,10 +165,8 @@
     padding-top: 10px; 
     text-align: center; 
 }
-
 .about-photo {
-    max-width: 100vh;  
-
+    padding-left: 10px;  
 }
 
 /*******************CONTACT PAGE************/
