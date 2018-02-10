@@ -29,6 +29,12 @@
         background-repeat: no-repeat;
     }
 
+    .about-photo {
+        padding-left: 20px;  
+        padding-bottom: 20px; 
+        padding-top: 20px; 
+    }
+
 }
 
 /************iphone 7 and 8 plus ************************/
