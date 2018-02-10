@@ -161,8 +161,14 @@
 }
 
 .aboutme {
+    padding-left: 20px;
     padding-top: 10px; 
     text-align: center; 
+}
+
+.about-photo {
+    max-width: 100vh;  
+
 }
 
 /*******************CONTACT PAGE************/
