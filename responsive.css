@@ -163,6 +163,10 @@ and (orientation: portrait){
     padding-bottom: 90px; 
 
 }
+
+.about-head {
+    font-size: 20px; 
+}
     
 
 }
