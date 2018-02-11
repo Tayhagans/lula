@@ -1,3 +1,38 @@
+/************iphone 7 and 8 plus ************************/
+
+@media only screen 
+and (min-width: 414px)
+and (max-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait){
+    #section1 {
+        height: 315px; 
+        width: 100%;
+        background-image:url("http://i65.tinypic.com/28h06tw.jpg"); 
+        background-color: white;
+        /*background-size: contain;*/ 
+       background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+
+    #section1contact {
+        padding-top: 20px; 
+        height: 610px; 
+       
+    }
+    
+    .contp {
+        padding-top: 20px; 
+
+    }
+
+    .about-photo {
+        padding-left: 30px; 
+    }
+
+} 
+
 @media screen and (min-width: 769px){
 
     #section1 {
@@ -37,33 +72,9 @@
 
 }
 
-/************iphone 7 and 8 plus ************************/
 
-@media only screen 
-    and (min-width: 414px)
-    and (max-width: 736px)
-    and (-webkit-min-device-pixel-ratio: 3)
-    and (orientation: portrait){
-        #section1 {
-            height: 315px; 
-            width: 100%;
-            background-image:url("http://i65.tinypic.com/28h06tw.jpg"); 
-            background-color: white;
-            /*background-size: contain;*/ 
-            background-size: cover;
-            background-repeat: no-repeat;
-        }
 
-        #section1contact {
-            padding-top: 20px; 
-            height: 610px; 
-        }
-        
-        .contp {
-            padding-top: 20px; 
-        }
 
-    }
 
 /*******************ipad pro*******************************/
 

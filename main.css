@@ -72,7 +72,8 @@
 
 #section3 {
     height: auto; 
-    background-color: black; 
+    background-color: black;
+    opacity: 0.7;  
 }
 
 
@@ -162,11 +163,23 @@
 
 .aboutme {
     padding-left: 20px;
-    padding-top: 10px; 
+    padding-top: 55px; 
+    text-align: center; 
+}
+
+.about-me {
     text-align: center; 
 }
 .about-photo {
-    padding-left: 10px;  
+    padding-left: 14px;
+    padding-top: 10px;   
+}
+
+.about-head {
+    padding: 0;
+    margin-top: 1px; 
+    margin-bottom: 0;  
+    text-align: center; 
 }
 
 /*******************CONTACT PAGE************/
@@ -191,6 +204,8 @@
 
 /************SHOP PAGE *****************/
 
-.shop1 {
-    padding-top: 30px; 
+.shophead {
+    padding-top: 40px; 
 }
+
+
