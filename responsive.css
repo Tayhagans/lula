@@ -76,6 +76,13 @@ and (orientation: portrait){
         padding-top: 20px; 
     }
 
+    .contp {
+        font-size: 40px; 
+        padding-top: 40px;
+        padding-bottom: 10px;  
+
+    }
+
 }
 
 
