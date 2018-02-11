@@ -99,6 +99,9 @@ and (orientation: portrait){
 
     }
 
+    .before-foot {
+        padding-bottom: 35px; 
+    }
 }
 
 
@@ -170,6 +173,10 @@ and (orientation: portrait){
 
 .conth4{
     padding-bottom: 40px; 
+}
+
+.before-foot {
+    padding-bottom: 60px; 
 }
 
 }
