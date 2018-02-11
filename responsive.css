@@ -88,6 +88,10 @@ and (orientation: portrait){
     padding-top: 10px; 
 }
 
+.about-me{
+    padding-bottom: 50px; 
+
+}
     .contp {
         font-size: 40px; 
         padding-top: 40px;
