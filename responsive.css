@@ -23,7 +23,8 @@ and (orientation: portrait){
     }
     
     .contp {
-        padding-top: 20px; 
+        padding-top: 40px;
+        padding-bottom: 10px;  
 
     }
 
@@ -46,7 +47,12 @@ and (orientation: portrait){
     }
     #section1contact{
         height: auto;
-   
+}
+
+.contp {
+    font-size: 30px; 
+    padding-top: 30px; 
+    padding-bottom: 10px; 
 }
 
 @media screen and (min-width: 1025px){
