@@ -79,9 +79,13 @@ and (orientation: portrait){
 
 .about-head {
     padding: 10px 5px 10px 5px;
-    margin-top: 10px; 
+    margin-top: 30px; 
     background-color:#CACFD2; 
 
+}
+
+.aboutme{
+    padding-top: 10px; 
 }
 
     .contp {
