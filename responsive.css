@@ -167,6 +167,9 @@ and (orientation: portrait){
 .about-head {
     font-size: 40px; 
 }
-    
+
+.conth4{
+    padding-bottom: 40px; 
+}
 
 }
