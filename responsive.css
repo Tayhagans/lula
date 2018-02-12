@@ -81,6 +81,11 @@ and (orientation: portrait){
         padding-top: 20px; 
     }
 
+    .homehead {
+        padding-top: 105px; 
+        font-size: 60px; 
+    }
+
 
 .about-head {
     padding: 10px 5px 10px 5px;

@@ -54,6 +54,12 @@
     color: red; 
 }
 
+.homehead {
+    padding-top: 30px; 
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px; 
+}
+
 #section2 {
     height: auto;
 }
@@ -180,6 +186,7 @@ hr {
 }
 
 .about-head {
+    font-family: 'Dancing Script', cursive;
     padding: 0;
     margin-top: 1px; 
     margin-bottom: 0;  
@@ -221,7 +228,14 @@ hr {
 /************SHOP PAGE *****************/
 
 .shophead {
-    padding-top: 40px; 
+    font-family: 'Dancing Script', cursive;
+    padding-top: 40px;
+    font-size: 35px;  
 }
 
+
+.fa-instagram{
+    font-size: 30px; 
+    color: #999; 
+}
 
