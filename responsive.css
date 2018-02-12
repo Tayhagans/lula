@@ -228,6 +228,12 @@ hr {
     font-size: 40px; 
 }
 
+.contp {
+    font-size: 22px;
+    padding-top: 40px; 
+    margin-bottom: 0px; 
+}
+
 .conth4{
     padding-bottom: 40px; 
 }

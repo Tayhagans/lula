@@ -171,7 +171,8 @@ hr {
 }
 
 .about-me {
-    text-align: center; 
+    text-align: center;
+    padding-top: 5px;  
 }
 .about-photo {
     padding-left: 14px;
