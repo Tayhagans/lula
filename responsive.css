@@ -112,7 +112,17 @@ and (orientation: portrait){
     .before-foot {
         padding-bottom: 35px; 
     }
+
+    .contact-info li {
+        padding-left: 300px; 
+        padding-top: 15px; 
+        padding-bottom: 30px; 
+        display: inline-block;
+
+
 }
+
+
 
 
 
