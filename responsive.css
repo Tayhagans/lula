@@ -55,6 +55,15 @@ and (orientation: portrait){
     padding-bottom: 10px; 
 }
 
+.contact-info li {
+   padding-left: 205px; 
+   padding-top: 15px; 
+   padding-bottom: 30px; 
+    display: inline-block; 
+    
+
+}
+
 @media screen and (min-width: 1025px){
     #section1contact{
         height: auto;
@@ -80,7 +89,8 @@ and (orientation: portrait){
 .about-head {
     padding: 10px 5px 10px 5px;
     margin-top: 30px; 
-    background-color:#CACFD2; 
+    background-color:#CACFD2;
+    opacity: 0.5;  
 
 }
 
