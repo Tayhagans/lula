@@ -90,6 +90,14 @@ and (orientation: portrait){
 
 }
 
+.shophead {
+    padding: 10px 5px 10px 5px;
+    margin-top: 80px; 
+    background-color:#CACFD2;
+    opacity: 0.5;  
+
+}
+
 .aboutme{
     padding-top: 10px; 
 }
