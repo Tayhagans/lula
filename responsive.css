@@ -115,6 +115,13 @@ and (orientation: portrait){
         display: inline-block;
 }
 
+.contact-info a {
+	 
+	padding: 0 0 0 30px; 
+	margin: 0 0 10px; 
+	text-align: center;
+}
+
 .contactDetails {
 
     display: table; 

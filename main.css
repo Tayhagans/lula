@@ -117,21 +117,20 @@
 	display: block;
 	min-height: 20px;
 	background-repeat: no-repeat;
-	background-size: 20px 20px;
-	padding: 0 0 0 30px; 
-	margin: 0 0 10px;
+    background-size: 20px 20px;
+    padding-bottom: 20px; 
+	/* padding: 0 0 0 30px; 
+	margin: 0 0 10px; */
 	text-align: center;
 }
 
 
 .contact-info li {
     display: block;
-    
-
-}
+    }
 
 .contact-info li a  {
-    color: #999;
+    color: white;
 }
 
 
@@ -198,6 +197,12 @@
 
 .conth4 {
     font-size: 12px; 
+}
+
+.contactDetails {
+
+    display: table; 
+    margin: 0 auto; 
 }
 
 /* .form-submit {
